@@ -1,0 +1,3 @@
+The directory wont save on github without a file actually inside it. 
+
+Here's where I would put my results... IF I HAD ANY!
