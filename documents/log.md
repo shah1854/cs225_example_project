@@ -4,9 +4,10 @@
 
 ### Tasks Complete
 
+### Issues encountered (Questions for mentors)
+
 ### Plans for next week
 
-### Questions for Mentor
 
 Example:
 
@@ -20,10 +21,10 @@ Example:
 Gcevans successfully finished writing the skip table for KMP algorithm.
 Bradsol was tasked with writing tests but the written tests did not pass the algorithm.
 
+### Issues encountered (Questions for mentors)
+The preprocessing function keeps running out of memory on full scale tests. We benchmarked our table and it stores our dataset in N^5 space for N sequences. Do you know of any way we can store a text file in space better than N^5?
+
 ### Plans for next week
 Determine whether the tests or the code is wrong.
 Write additional tests
 Start working on the KMP algorithm. We will begin by writing a visual example of the algorithm (on whiteboard) to make sure we understand the method. We dont plan to actually begin implementing the algorithm next week.
-
-### Questions for Mentor
-Is this real life? Is this just fantasy?
